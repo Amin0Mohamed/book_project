@@ -1,12 +1,9 @@
 
 
-body{
-  color: #0f0f;
-  background-color: #f00;
-  h1{
-    font-size: 30px;
-  }
-}
 
+
+
+@import "general";
 @import "div";
 @import "footer";
+@import "icons";

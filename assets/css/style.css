@@ -1,8 +1,6 @@
 body {
-  color: #0f0f;
-  background-color: #f00; }
-  body h1 {
-    font-size: 30px; }
+  color: #a1a;
+  background-color: #baa; }
 
 .d1, .d2 {
   border-radius: 50%;
@@ -22,5 +20,9 @@ body {
 
 footer {
   background-color: black;
-  color: #f50;
+  color: yellow;
   text-align: center; }
+
+#icons {
+  font-size: 35px;
+  color: blue; }
